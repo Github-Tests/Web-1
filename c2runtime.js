@@ -21450,5 +21450,5 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.exps.str,
 	cr.plugins_.Text.prototype.acts.SetWebFont,
 	cr.plugins_.Mouse.prototype.cnds.OnClick,
-	cr.plugins_.Mouse.prototype.cnds.IsOverObject
+	cr.plugins_.Touch.prototype.cnds.OnTapGestureObject
 ];};
